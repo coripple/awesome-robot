@@ -1,6 +1,41 @@
 # awesome-robot
 A list of robot-related information and resources.
 
+## Robot
+
+### Humanoid Robots
+
+- [Optimus](https://x.com/Tesla_Optimus/status/1866171391156113740) **Tesla**
+
+- [Unitree G1](https://shop.unitree.com/products/unitree-g1) **Unitree**
+- [Atlas](https://bostondynamics.com/atlas/) **Boston Dynamics**
+- [GALBOT G1](https://www.galbot.com/) **Galbot**
+
+### Quadruped Robots 
+
+- [Unitree Go2](https://shop.unitree.com/products/unitree-go2) **Unitree**
+- [Spot](https://bostondynamics.com/products/spot/) **Boston Dynamics**
+
+## Robot Development Platform
+
+- [ISAAC](https://developer.nvidia.com/isaac) **NVIDIA**
+- [OSMO](https://developer.nvidia.com/osmo) **NVIDIA**  OSMO is a cloud-native orchestration platform for scaling complex, multi-stage, and multi-container ‌robotics workloads, across on-premises, private, and public clouds. It’s now available to robot developers and members of the NVIDIA Humanoid Robot Developer Program as a free managed service.
+
+### Tools
+
+#### System 
+
+- [ROS2](https://ros.org/) The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project 
+
+#### Simulation
+
+- [Gazebo](https://gazebosim.org/home) Gazebo brings a fresh approach to simulation with a complete toolbox of development libraries and cloud services to make simulation easy
+
+- [Isaac](https://developer.nvidia.com/isaac) **NVIDIA**
+
+- [ManiSkill3](https://www.maniskill.ai/home)  **HILLBOT**  State-of-the-art open source platform for robot simulation, infinite robot data generation, and generalizable robot AI.
+- 
+
 
 ## Best Robotics papers in 2024.
 
